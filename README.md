@@ -10,6 +10,8 @@ AutoQC is a SaaS platform that automatically checks video quality across 15 dime
 
 ## Detection capabilities
 
+> Full parameter reference with configuration options: [docs/detection-checks.md](docs/detection-checks.md)
+
 ### AI Visual Detection
 
 | Module | Method | Accuracy |
@@ -93,9 +95,9 @@ Timeline Errors + PDF Report
 | v1.03 | April 2026 | Logo & Brand Detection (Grounding DINO v1, zero-shot) |
 | v1.02 | April 2026 | Version Control — upload revisions, auto-inherit dismissed errors |
 | v1.0.1 | March 2026 | Subscription plans, billing portal, account management |
-| v1.0.0 | March 2026 | Initial release — 14 core checks, PDF report, platform compliance |
+| v1.0.0 | March 2026 | Initial release — 15 core checks, PDF report, platform compliance |
 
-[Full changelog →](https://www.autoqc.app/resource/whats-new)
+[Full changelog →](CHANGELOG.md) · [Release notes with screenshots →](https://www.autoqc.app/resource/whats-new)
 
 ---
 
